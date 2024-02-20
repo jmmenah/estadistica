@@ -1,0 +1,773 @@
+MUNICIPIO	CODIGO INE	POBLACION	MEDIA DE PARADOS	RENTAS NETAS DECLARADAS	ADSL	COBERTURA ADSL 10 Mbps	COBERTURA FIBRA	COBERTURA INALAMBRICAS 30 Mbps	COBERTURA LTE 4G
+Abla	04001	1422	125,0833333	4502566	175	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Abrucena	04002	1299	72,91666668	4431738	148	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Adra	04003	24761	2993,833333	102392249	2010	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Albanchez	04004	648	27,25000001	2424658	128	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 50 y 60
+Alboloduy	04005	645	53,25000002	1721521	59	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Albox	04006	10409	1055,416667	49914932	1446	Entre 50 y 60	Entre 50 y 60	Entre 50 y 60	Entre 90 y 100
+Alcolea	04007	850	75,83333334	2466708	86	Entre 80 y 90	Entre 0 y 10	Entre 10 y 20	Entre 90 y 100
+Alcóntar	04008	618	28,91666666	1912675	14	Entre 50 y 60	Entre 0 y 10	Entre 90 y 100	Entre 0 y 10
+Alcudia de Monteagud	04009	141	4,74999999	114180	0	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Alhabia	04010	671	114,1666667	1925539	77	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 60 y 70
+Alhama de Almería	04011	3815	502,75	15316658	507	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Alicún	04012	244	22,33333334	787023	25	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 50 y 60
+Almería (capital)	04013	192697	26298,91667	1391276617	18091	Entre 70 y 80	Entre 90 y 100	Entre 90 y 100	Entre 90 y 100
+Almócita	04014	177	16,66666668	308701	14	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Alsodux	04015	149	7,5	162683	4	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 50 y 60
+Antas	04016	3288	200,1666667	13409905	554	Entre 60 y 70	Entre 50 y 60	Entre 70 y 80	Entre 90 y 100
+Arboleas	04017	5126	185,25	11214895	194	Entre 10 y 20	Entre 0 y 10	Entre 0 y 10	Entre 60 y 70
+Armuña de Almanzora	04018	338	29,41666666	1403166	54	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Bacares	04019	273	18,99999999	695621	0	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10
+Bayárcal	04020	347	20,49999998	604779	0	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Bayarque	04021	216	12,24999999	1034669	34	Entre 0 y 10	Entre 0 y 10	Entre 80 y 90	Entre 0 y 10
+Bédar	04022	1113	49,33333331	2407643	112	Entre 30 y 40	Entre 0 y 10	Entre 60 y 70	Entre 90 y 100
+Beires	04023	114	4,58333332	277490	2	Entre 50 y 60	Entre 0 y 10	Entre 50 y 60	Entre 40 y 50
+Benahadux	04024	4222	574,5833333	20823014	897	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Benitagla	04026	73	0,91666666	..	0	Entre 90 y 100	Entre 80 y 90	Entre 0 y 10	Entre 90 y 100
+Benizalón	04027	281	18,33333331	480652	13	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Bentarique	04028	260	34,83333335	794093	14	Entre 60 y 70	Entre 0 y 10	Entre 0 y 10	Entre 70 y 80
+Berja	04029	15521	1891,583333	60180876	1955	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Canjáyar	04030	1405	150,6666667	3829199	185	Entre 80 y 90	Entre 0 y 10	Entre 70 y 80	Entre 90 y 100
+Cantoria	04031	3926	348,4166667	12652355	296	Entre 90 y 100	Entre 0 y 10	Entre 80 y 90	Entre 90 y 100
+Carboneras	04032	8035	790,6666667	45829365	1448	Entre 50 y 60	Entre 0 y 10	Entre 50 y 60	Entre 90 y 100
+Castro de Filabres	04033	148	5,66666667	..	0	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Chercos	04036	284	28,83333334	643712	0	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Chirivel	04037	1795	99,91666668	7630107	186	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 20 y 30
+Cóbdar	04034	146	13,41666664	446224	5	Entre 70 y 80	Entre 0 y 10	Entre 70 y 80	Entre 80 y 90
+Cuevas del Almanzora	04035	13108	1359,416667	57987385	1683	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10
+Dalías	04038	3972	368,3333333	17720254	644	Entre 70 y 80	Entre 10 y 20	Entre 50 y 60	Entre 90 y 100
+Ejido (El)	04902	82983	8810,083333	323867318	9046	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Enix	04041	451	27,41666666	969488	10	Entre 80 y 90	Entre 60 y 70	Entre 90 y 100	Entre 90 y 100
+Felix	04043	667	46,08333335	2118359	97	Entre 10 y 20	Entre 0 y 10	Entre 20 y 30	Entre 90 y 100
+Fines	04044	2244	354,9166667	8663887	336	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100	Entre 90 y 100
+Fiñana	04045	2270	245,5	7582655	269	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Fondón	04046	990	97,33333335	3625978	124	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Gádor	04047	3226	525,6666667	11447713	441	Entre 60 y 70	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Gallardos (Los)	04048	2848	228,8333333	10148835	383	Entre 90 y 100	Entre 60 y 70	Entre 0 y 10	Entre 90 y 100
+Garrucha	04049	8663	991,4166666	38452627	1642	Entre 70 y 80	Entre 0 y 10	Entre 70 y 80	Entre 90 y 100
+Gérgal	04050	1075	100,4166667	3054649	110	Entre 30 y 40	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Huécija	04051	533	49,66666668	1831239	58	Entre 70 y 80	Entre 0 y 10	Entre 0 y 10	Entre 80 y 90
+Huércal de Almería	04052	16442	2267,166667	113895524	1815	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 20 y 30
+Huércal-Overa	04053	18925	1815,5	98340935	1744	Entre 60 y 70	Entre 30 y 40	Entre 0 y 10	Entre 90 y 100
+Íllar	04054	366	31,16666664	1173863	39	Entre 60 y 70	Entre 50 y 60	Entre 70 y 80	Entre 90 y 100
+Instinción	04055	480	41,16666664	1673875	64	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Laroya	04056	177	17,08333333	245279	0	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Láujar de Andarax	04057	1671	187,8333333	5732839	291	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10
+Líjar	04058	448	61,50000001	1421177	53	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Lubrín	04059	1708	111,25	5409304	103	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10
+Lucainena de las Torres	04060	650	41	1053247	32	Entre 40 y 50	Entre 0 y 10	Entre 0 y 10	Entre 80 y 90
+Lúcar	04061	854	70,16666665	2892817	104	Entre 70 y 80	Entre 0 y 10	Entre 0 y 10	Entre 30 y 40
+Macael	04062	5738	920,3333333	29571808	961	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100	Entre 40 y 50
+María	04063	1352	80,33333334	5403490	194	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Mojácar	04064	8360	483,5	28460337	1732	Entre 80 y 90	Entre 0 y 10	Entre 80 y 90	Entre 80 y 90
+Mojonera (La)	04903	8844	844,75	27494734	1217	Entre 30 y 40	Entre 50 y 60	Entre 70 y 80	Entre 90 y 100
+Nacimiento	04065	517	26,08333333	1118270	36	Entre 90 y 100	Entre 70 y 80	Entre 90 y 100	Entre 90 y 100
+Níjar	04066	28245	2530,583333	102788064	2902	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 80 y 90
+Ohanes	04067	710	72,66666668	1821972	45	Entre 70 y 80	Entre 0 y 10	Entre 60 y 70	Entre 90 y 100
+Olula de Castro	04068	171	4	183638	0	Entre 0 y 10	Entre 0 y 10	Entre 60 y 70	Entre 50 y 60
+Olula del Río	04069	6444	964,3333333	29619790	1159	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 60 y 70
+Oria	04070	2366	125,4166667	7203544	0	Entre 90 y 100	Entre 40 y 50	Entre 0 y 10	Entre 90 y 100
+Padules	04071	500	30,91666667	1445285	45	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Partaloa	04072	979	28,91666667	1721471	2	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Paterna del Río	04073	431	26,91666668	680508	0	Entre 0 y 10	Entre 0 y 10	Entre 40 y 50	Entre 80 y 90
+Pechina	04074	3736	565	17083463	736	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100	Entre 60 y 70
+Pulpí	04075	8871	469,9166666	43186458	1252	Entre 80 y 90	Entre 60 y 70	Entre 0 y 10	Entre 90 y 100
+Purchena	04076	1727	206,5833333	6906125	223	Entre 60 y 70	Entre 30 y 40	Entre 70 y 80	Entre 90 y 100
+Rágol	04077	340	18,49999999	776733	23	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Rioja	04078	1397	275,9166667	5081236	209	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100	Entre 60 y 70
+Roquetas de Mar	04079	87868	10512,83333	524396633	9045	Entre 0 y 10	Entre 60 y 70	Entre 0 y 10	Entre 90 y 100
+Santa Cruz de Marchena	04080	214	18,58333333	448561	5	Entre 70 y 80	Entre 80 y 90	Entre 90 y 100	Entre 90 y 100
+Santa Fe de Mondújar	04081	419	50,08333332	1349508	48	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100	Entre 80 y 90
+Senés	04082	311	23,99999999	426970	0	Entre 10 y 20	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Serón	04083	2290	189,3333333	9593398	278	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 20 y 30
+Sierro	04084	436	44,58333334	1447050	0	Entre 70 y 80	Entre 0 y 10	Entre 80 y 90	Entre 80 y 90
+Somontín	04085	521	36,5	1739177	51	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100	Entre 0 y 10
+Sorbas	04086	2765	255,0833333	8776837	248	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100	Entre 30 y 40
+Suflí	04087	251	25,00000001	443183	29	Entre 60 y 70	Entre 0 y 10	Entre 0 y 10	Entre 70 y 80
+Tabernas	04088	3696	477	11342048	522	Entre 20 y 30	Entre 0 y 10	Entre 90 y 100	Entre 50 y 60
+Taberno	04089	1130	69,91666671	3278978	39	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Tahal	04090	441	30,49999999	861706	0	Entre 0 y 10	Entre 0 y 10	Entre 70 y 80	Entre 80 y 90
+Terque	04091	456	39,00000001	1481652	36	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Tíjola	04092	3840	394,3333333	17627636	567	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Tres Villas (Las)	04901	603	33,16666667	1471678	27	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Turre	04093	3960	403,8333333	11216225	496	Entre 50 y 60	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Turrillas	04094	243	11,74999999	449742	1	Entre 80 y 90	Entre 0 y 10	Entre 80 y 90	Entre 80 y 90
+Uleila del Campo	04095	963	107,25	2719100	106	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 40 y 50
+Urrácal	04096	329	30,16666664	1140610	39	Entre 90 y 100	Entre 0 y 10	Entre 70 y 80	Entre 90 y 100
+Velefique	04097	292	13,08333332	374375	0	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100	Entre 80 y 90
+Vélez-Blanco	04098	2066	105,3333334	7860642	229	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 40 y 50
+Vélez-Rubio	04099	6841	559,6666667	33075894	1014	Entre 70 y 80	Entre 0 y 10	Entre 0 y 10	Entre 80 y 90
+Vera	04100	15424	1428,5	76257194	2833	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Viator	04101	5600	721,25	25669355	1436	Entre 80 y 90	Entre 60 y 70	Entre 80 y 90	Entre 90 y 100
+Vícar	04102	24233	2844,916667	92755401	1752	Entre 80 y 90	Entre 10 y 20	Entre 90 y 100	Entre 90 y 100
+Zurgena	04103	3201	219,75	10338966	228	Entre 60 y 70	Entre 60 y 70	Entre 90 y 100	Entre 90 y 100
+Alcalá de los Gazules	11001	5439	992,3333333	21733777	644	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Alcalá del Valle	11002	5261	427,8333333	17252901	202	Entre 90 y 100	Entre 80 y 90	Entre 0 y 10	Entre 90 y 100
+Algar	11003	1478	232,9166667	5607743	114	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Algeciras	11004	114277	17499,16667	844811287	8599	Entre 60 y 70	Entre 60 y 70	Entre 0 y 10	Entre 90 y 100
+Algodonales	11005	5719	712,0833333	19993073	336	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Arcos de la Frontera	11006	31410	6524,75	114161802	2148	Entre 70 y 80	Entre 50 y 60	Entre 0 y 10	Entre 90 y 100
+Barbate	11007	22921	4785,166667	81819258	2226	Entre 90 y 100	Entre 60 y 70	Entre 0 y 10	Entre 90 y 100
+Barrios (Los)	11008	22948	3473,916667	159106811	4175	Entre 80 y 90	Entre 40 y 50	Entre 0 y 10	Entre 90 y 100
+Benalup-Casas Viejas	11901	6991	1536,083333	24722914	693	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Benaocaz	11009	715	112,5833334	2909359	116	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Bornos	11010	8083	1120	25005390	828	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Bosque (El)	11011	2094	304,3333333	10141320	260	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Cádiz (capital)	11012	122990	17401,33333	961983374	8476	Entre 80 y 90	Entre 80 y 90	Entre 0 y 10	Entre 90 y 100
+Castellar de la Frontera	11013	3123	500,0833333	12923034	565	Entre 90 y 100	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100
+Chiclana de la Frontera	11015	82212	14251,16667	102303543	7535	Entre 60 y 70	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Chipiona	11016	18930	3310,666667	424246807	1643	Entre 70 y 80	Entre 40 y 50	Entre 0 y 10	Entre 90 y 100
+Conil de la Frontera	11014	22116	2937,833333	59172832	2905	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Espera	11017	3946	535,0833333	12397733	215	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Gastor (El)	11018	1828	256,3333333	6351945	76	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Grazalema	11019	2171	322,25	8598433	327	Entre 70 y 80	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Jerez de la Frontera	11020	211670	35588,16667	1212045230	17637	Entre 60 y 70	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100
+Jimena de la Frontera	11021	10412	1444,416667	36742421	1761	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Línea de la Concepción (La)	11022	62697	10650,25	305028117	5841	Entre 80 y 90	Entre 80 y 90	Entre 0 y 10	Entre 90 y 100
+Medina Sidonia	11023	11781	2594,416667	44941010	1299	Entre 80 y 90	Entre 50 y 60	Entre 0 y 10	Entre 90 y 100
+Olvera	11024	8397	777,9166667	39246706	771	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Paterna de Rivera	11025	5667	1330,833333	16985242	378	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Prado del Rey	11026	5668	1195,083333	18528828	665	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Puerto de Santa María (El)	11027	89142	12699,16667	593051832	9346	Entre 50 y 60	Entre 70 y 80	Entre 0 y 10	Entre 90 y 100
+Puerto Real	11028	41537	7244,75	269483087	2662	Entre 70 y 80	Entre 60 y 70	Entre 70 y 80	Entre 90 y 100
+Puerto Serrano	11029	7174	650,9166667	17089743	267	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Rota	11030	29136	4126,333333	177212290	2539	Entre 80 y 90	Entre 40 y 50	Entre 0 y 10	Entre 90 y 100
+San Fernando	11031	96361	14252,08333	644846120	5846	Entre 80 y 90	Entre 80 y 90	Entre 0 y 10	Entre 90 y 100
+San José del Valle	11902	4460	739,8333334	264372569	276	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+San Roque	11033	29536	4419,416667	167263309	7785	Entre 70 y 80	Entre 20 y 30	Entre 0 y 10	Entre 90 y 100
+Sanlúcar de Barrameda	11032	67301	12228,5	9498113	3260	Entre 70 y 80	Entre 60 y 70	Entre 0 y 10	Entre 90 y 100
+Setenil de las Bodegas	11034	2894	324,8333333	87871469	211	Entre 80 y 90	Entre 60 y 70	Entre 0 y 10	Entre 90 y 100
+Tarifa	11035	18085	2492,083333	2497996	3124	Entre 80 y 90	Entre 40 y 50	Entre 0 y 10	Entre 90 y 100
+Torre Alháquime	11036	789	70,1666667	29771241	79	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10
+Trebujena	11037	7089	1106,583333	77517678	880	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Ubrique	11038	16877	3386,583333	44000583	1724	Entre 90 y 100	Entre 80 y 90	Entre 0 y 10	Entre 90 y 100
+Vejer de la Frontera	11039	12882	2588,5	1391814	1365	Entre 70 y 80	Entre 60 y 70	Entre 0 y 10	Entre 90 y 100
+Villaluenga del Rosario	11040	448	53,16666664	47124312	66	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10
+Villamartín	11041	12366	2176,416667	5608744	1172	Entre 90 y 100	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100
+Zahara	11042	1471	168,4166666	13151876	91	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Adamuz	14001	4368	357,25	16066997	274	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Aguilar de la Frontera	14002	13671	1239,75	54501562	1352	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Alcaracejos	14003	1529	202,25	6133497	237	Entre 80 y 90	Entre 0 y 10	Entre 80 y 90	Entre 70 y 80
+Almedinilla	14004	2501	177,4166666	9346428	215	Entre 80 y 90	Entre 70 y 80	Entre 0 y 10	Entre 90 y 100
+Almodóvar del Río	14005	7997	1167,833333	26493400	1113	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 40 y 50
+Añora	14006	1554	206,75	8538654	197	Entre 90 y 100	Entre 10 y 20	Entre 0 y 10	Entre 90 y 100
+Baena	14007	20358	1923,416667	80275951	1519	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Belalcázar	14008	3452	487,5833333	12625780	418	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Belmez	14009	3289	530,0833333	16985697	532	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Benamejí	14010	5121	398,5	18579700	464	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10
+Blázquez (Los)	14011	721	118,1666667	2595190	133	Entre 90 y 100	Entre 60 y 70	Entre 0 y 10	Entre 90 y 100
+Bujalance	14012	7792	675,5	32139839	1083	Entre 70 y 80	Entre 80 y 90	Entre 0 y 10	Entre 90 y 100
+Cabra	14013	20835	2170,75	110319756	1914	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Cañete de las Torres	14014	3087	217,6666667	13272219	543	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Carcabuey	14015	2668	194,25	11679856	498	Entre 70 y 80	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Cardeña	14016	1634	151,0833333	5775307	202	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Carlota (La)	14017	13903	1588,833333	59997359	1679	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Carpio (El)	14018	4582	640,8333333	21380834	795	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Castro del Río	14019	8108	591,6666667	34219270	908	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Conquista	14020	455	33,91666666	1773475	62	Entre 70 y 80	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100
+Córdoba (capital)	14021	328704	47017,16667	2487074295	33305	Entre 90 y 100	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100
+Doña Mencía	14022	4982	396,25	20305652	882	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Dos Torres	14023	2494	324,25	11037974	289	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Encinas Reales	14024	2407	247	8542509	236	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 70 y 80
+Espejo	14025	3510	173,3333333	15966586	636	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Espiel	14026	2459	363,25	13648748	421	Entre 80 y 90	Entre 90 y 100	Entre 80 y 90	Entre 90 y 100
+Fernán-Núñez	14027	9848	1226,333333	50776358	970	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Fuente la Lancha	14028	360	60,25000006	1364153	35	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 60 y 70
+Fuente Obejuna	14029	5043	904,75	19826134	796	Entre 40 y 50	Entre 0 y 10	Entre 0 y 10	Entre 70 y 80
+Fuente Palmera	14030	11112	978,5833333	38640883	992	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Fuente-Tójar	14031	744	49,08333331	2748297	72	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Granjuela (La)	14032	498	87,58333333	2096232	83	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Guadalcázar	14033	1595	173,0833333	6583754	241	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 60 y 70
+Guijo (El)	14034	392	50,33333334	1287149	16	Entre 90 y 100	Entre 60 y 70	Entre 0 y 10	Entre 90 y 100
+Hinojosa del Duque	14035	7172	1158,833333	30450128	895	Entre 70 y 80	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Hornachuelos	14036	4703	373	17714889	582	Entre 40 y 50	Entre 0 y 10	Entre 60 y 70	Entre 70 y 80
+Iznájar	14037	4725	220,5833334	15354588	522	Entre 80 y 90	Entre 50 y 60	Entre 90 y 100	Entre 90 y 100
+Lucena	14038	42754	5554,25	190009152	4095	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Luque	14039	3229	274,5833334	13775288	478	Entre 90 y 100	Entre 60 y 70	Entre 0 y 10	Entre 90 y 100
+Montalbán de Córdoba	14040	4475	178,9166666	20518605	236	Entre 90 y 100	Entre 10 y 20	Entre 0 y 10	Entre 90 y 100
+Montemayor	14041	4069	431,1666667	17377909	137	Entre 80 y 90	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100
+Montilla	14042	23752	2771,416667	126854371	2093	Entre 80 y 90	Entre 20 y 30	Entre 0 y 10	Entre 90 y 100
+Montoro	14043	9801	1235,333333	40592529	1135	Entre 70 y 80	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Monturque	14044	1990	143,75	7598239	282	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Moriles	14045	3907	388,25	12384150	442	Entre 90 y 100	Entre 60 y 70	Entre 90 y 100	Entre 90 y 100
+Nueva Carteya	14046	5531	299,5833333	18586960	279	Entre 60 y 70	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Obejo	14047	1985	245,75	6857458	314	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Palenciana	14048	1589	85,08333333	5794684	57	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Palma del Río	14049	21582	1809,666667	95042886	1961	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Pedro Abad	14050	2977	464,5	12579314	471	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 10 y 20
+Pedroche	14051	1658	190,5833333	6565618	180	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Peñarroya-Pueblonuevo	14052	11600	1961,25	67186454	1355	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Posadas	14053	7554	855,75	30988969	1000	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Pozoblanco	14054	17519	2033,25	113973878	1560	Entre 70 y 80	Entre 20 y 30	Entre 60 y 70	Entre 90 y 100
+Priego de Córdoba	14055	23171	2181,333333	101638134	1815	Entre 70 y 80	Entre 80 y 90	Entre 0 y 10	Entre 90 y 100
+Puente Genil	14056	30244	3924,333333	136518308	2072	Entre 90 y 100	Entre 60 y 70	Entre 90 y 100	Entre 90 y 100
+Rambla (La)	14057	7580	698,5	32027475	1031	Entre 80 y 90	Entre 10 y 20	Entre 0 y 10	Entre 90 y 100
+Rute	14058	10560	753,8333333	45636448	1653	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 50 y 60
+San Sebastián de los Ballesteros	14059	840	68,08333332	3940866	152	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Santa Eufemia	14061	916	126	3591948	35	Entre 70 y 80	Entre 50 y 60	Entre 0 y 10	Entre 80 y 90
+Santaella	14060	6142	420,1666667	23625518	681	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Torrecampo	14062	1210	149,6666667	5247593	180	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Valenzuela	14063	1289	47,16666664	5342743	230	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Valsequillo	14064	392	52,08333334	1501413	68	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Victoria (La)	14065	2385	237	10990479	367	Entre 90 y 100	Entre 80 y 90	Entre 0 y 10	Entre 90 y 100
+Villa del Río	14066	7473	905,1666667	28192396	1120	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Villafranca de Córdoba	14067	4876	627,0833333	23528226	628	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Villaharta	14068	751	97,24999997	2850265	106	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Villanueva de Córdoba	14069	9326	859,25	39185663	1129	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 80 y 90
+Villanueva del Duque	14070	1582	184,0833333	6877059	221	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10
+Villanueva del Rey	14071	1134	176,8333334	4880869	177	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 40 y 50
+Villaralto	14072	1262	91,91666665	5052312	110	Entre 80 y 90	Entre 60 y 70	Entre 0 y 10	Entre 90 y 100
+Villaviciosa de Córdoba	14073	3511	448,25	12328372	107	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Viso (El)	14074	2723	284,1666667	11411267	435	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 80 y 90
+Zuheros	14075	710	34,74999999	3324179	125	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100	Entre 30 y 40
+Agrón	18001	324	26,41666666	637113	0	Entre 60 y 70	Entre 90 y 100	Entre 90 y 100	Entre 90 y 100
+Alamedilla	18002	695	32,25000001	1472785	58	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100	Entre 80 y 90
+Albolote	18003	18082	2294,083333	125060009	2497	Entre 0 y 10	Entre 0 y 10	Entre 80 y 90	Entre 90 y 100
+Albondón	18004	814	66,25000003	2308047	64	Entre 60 y 70	Entre 0 y 10	Entre 30 y 40	Entre 90 y 100
+Albuñán	18005	423	33,58333334	1521038	56	Entre 80 y 90	Entre 0 y 10	Entre 80 y 90	Entre 20 y 30
+Albuñol	18006	6878	665,4166667	22755525	773	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100	Entre 0 y 10
+Albuñuelas	18007	879	65,58333333	3179051	121	Entre 70 y 80	Entre 0 y 10	Entre 80 y 90	Entre 90 y 100
+Aldeire	18010	653	37,99999998	2742888	111	Entre 60 y 70	Entre 0 y 10	Entre 10 y 20	Entre 80 y 90
+Alfacar	18011	5552	708,5	31965255	1139	Entre 90 y 100	Entre 0 y 10	Entre 70 y 80	Entre 90 y 100
+Algarinejo	18012	2943	94,33333334	8792152	304	Entre 90 y 100	Entre 50 y 60	Entre 90 y 100	Entre 90 y 100
+Alhama de Granada	18013	6154	521,1666667	22306670	847	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Alhendín	18014	8020	1110,5	52080217	1436	Entre 0 y 10	Entre 0 y 10	Entre 60 y 70	Entre 40 y 50
+Alicún de Ortega	18015	506	23,08333335	1126731	75	Entre 60 y 70	Entre 30 y 40	Entre 80 y 90	Entre 90 y 100
+Almegíjar	18016	377	22,24999997	780134	22	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Almuñécar	18017	25586	3433,5	117444793	3523	Entre 70 y 80	Entre 0 y 10	Entre 90 y 100	Entre 60 y 70
+Alpujarra de la Sierra	18904	1044	69,91666667	3220480	132	Entre 40 y 50	Entre 0 y 10	Entre 50 y 60	Entre 50 y 60
+Alquife	18018	733	83,91666664	2761007	124	Entre 80 y 90	Entre 80 y 90	Entre 90 y 100	Entre 90 y 100
+Arenas del Rey	18020	1929	129,4166666	4949162	152	Entre 80 y 90	Entre 80 y 90	Entre 90 y 100	Entre 90 y 100
+Armilla	18021	22904	3190,416667	142384976	2192	Entre 80 y 90	Entre 50 y 60	Entre 90 y 100	Entre 90 y 100
+Atarfe	18022	17141	2427,583333	90257955	1946	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10
+Baza	18023	21258	2227,666667	4131419	1582	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10
+Beas de Granada	18024	1016	95,16666668	953840	134	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Beas de Guadix	18025	366	49,5	11670391	46	Entre 50 y 60	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Benalúa	18027	3301	509,0833333	108931353	511	Entre 60 y 70	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Benalúa de las Villas	18028	1252	76,83333331	3738036	184	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Benamaurel	18029	2445	169,6666666	7984286	197	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Bérchules	18030	759	53,5	2214618	104	Entre 0 y 10	Entre 0 y 10	Entre 80 y 90	Entre 90 y 100
+Bubión	18032	337	45,41666665	1172449	92	Entre 50 y 60	Entre 0 y 10	Entre 0 y 10	Entre 10 y 20
+Busquístar	18033	265	42,91666668	983509	51	Entre 80 y 90	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Cacín	18034	601	47,74999997	1764648	105	Entre 50 y 60	Entre 90 y 100	Entre 90 y 100	Entre 90 y 100
+Cádiar	18035	1515	129,1666667	5169840	262	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100	Entre 10 y 20
+Cájar	18036	4837	463,5833333	44443927	596	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Calahorra (La)	18114	754	72,24999999	2948104	121	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Calicasas	18037	564	76,08333334	2382620	101	Entre 80 y 90	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Campotéjar	18038	1334	94,16666666	4796148	212	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100	Entre 50 y 60
+Caniles	18039	4722	396,1666667	14873302	516	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Cáñar	18040	462	33,9166667	540142	39	Entre 80 y 90	Entre 0 y 10	Entre 90 y 100	Entre 50 y 60
+Capileira	18042	484	69,58333332	2468362	106	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100	Entre 30 y 40
+Carataunas	18043	162	21,3333333	319902	14	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Cástaras	18044	256	11,41666664	494111	5	Entre 40 y 50	Entre 0 y 10	Entre 90 y 100	Entre 50 y 60
+Castilléjar	18045	1542	84,3333333	3991549	98	Entre 90 y 100	Entre 90 y 100	Entre 90 y 100	Entre 90 y 100
+Castril	18046	2335	158,3333333	7251196	205	Entre 80 y 90	Entre 80 y 90	Entre 90 y 100	Entre 90 y 100
+Cenes de la Vega	18047	7958	1022,583333	48985508	1446	Entre 90 y 100	Entre 0 y 10	Entre 60 y 70	Entre 30 y 40
+Chauchina	18059	5411	692,5	21164245	1016	Entre 20 y 30	Entre 90 y 100	Entre 90 y 100	Entre 90 y 100
+Chimeneas	18061	1446	111	4431726	214	Entre 90 y 100	Entre 80 y 90	Entre 90 y 100	Entre 90 y 100
+Churriana de la Vega	18062	13407	1857	83708002	1600	Entre 60 y 70	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Cijuela	18048	3145	439,1666666	14317495	675	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Cogollos de Guadix	18049	689	92,16666663	2227544	82	Entre 70 y 80	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10
+Cogollos de la Vega	18050	2016	221,5833334	7737873	333	Entre 70 y 80	Entre 0 y 10	Entre 90 y 100	Entre 60 y 70
+Colomera	18051	1453	127,9166667	4338065	170	Entre 40 y 50	Entre 0 y 10	Entre 90 y 100	Entre 60 y 70
+Cortes de Baza	18053	2204	119,5833334	6367654	249	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Cortes y Graena	18054	1026	109,8333333	2670111	111	Entre 80 y 90	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Cuevas del Campo	18912	1938	114,9166666	6642143	190	Entre 40 y 50	Entre 90 y 100	Entre 70 y 80	Entre 90 y 100
+Cúllar	18056	4612	307,4166666	15744404	493	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10
+Cúllar Vega	18057	7090	884,6666667	44817000	1389	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 40 y 50
+Darro	18063	1444	149,3333333	3889348	159	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Dehesas de Guadix	18064	458	11,83333332	872947	60	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Deifontes	18066	2571	263,5833333	8050760	416	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10
+Diezma	18067	776	79,41666665	1895737	94	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100	Entre 30 y 40
+Dílar	18068	1743	171	11402942	420	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Dólar	18069	612	37,91666668	2820378	62	Entre 0 y 10	Entre 0 y 10	Entre 80 y 90	Entre 90 y 100
+Dúdar	18070	358	34,08333334	2375444	75	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10
+Dúrcal	18071	7281	1015,083333	32823945	769	Entre 80 y 90	Entre 10 y 20	Entre 90 y 100	Entre 90 y 100
+Escúzar	18072	773	73,16666666	3572877	162	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100	Entre 30 y 40
+Ferreira	18074	344	18,66666666	1265328	26	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100	Entre 0 y 10
+Fonelas	18076	1051	73,49999998	2242064	89	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Freila	18078	990	69,16666665	3058068	113	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100	Entre 0 y 10
+Fuente Vaqueros	18079	4500	607,7500001	14443165	732	Entre 90 y 100	Entre 70 y 80	Entre 70 y 80	Entre 90 y 100
+Gabias (Las)	18905	18946	2757,583333	119207814	3326	Entre 70 y 80	Entre 60 y 70	Entre 90 y 100	Entre 90 y 100
+Galera	18082	1138	126,75	3578953	105	Entre 80 y 90	Entre 0 y 10	Entre 90 y 100	Entre 70 y 80
+Gobernador	18083	326	21,5	715860	23	Entre 70 y 80	Entre 0 y 10	Entre 70 y 80	Entre 80 y 90
+Gójar	18084	5379	605,5833334	43163748	792	Entre 10 y 20	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Gor	18085	830	73,33333333	2773130	66	Entre 40 y 50	Entre 0 y 10	Entre 80 y 90	Entre 70 y 80
+Gorafe	18086	445	49,58333334	1453393	58	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Granada (capital)	18087	237818	29284,25	2100809623	30845	Entre 70 y 80	Entre 90 y 100	Entre 90 y 100	Entre 90 y 100
+Guadahortuna	18088	2027	206,0833333	3961158	175	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Guadix	18089	18884	2233,083333	97019709	2235	Entre 70 y 80	Entre 60 y 70	Entre 90 y 100	Entre 90 y 100
+Guájares (Los)	18906	1146	93,66666668	3334766	93	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 30 y 40
+Gualchos	18093	5031	399,0000001	19522053	750	Entre 80 y 90	Entre 0 y 10	Entre 80 y 90	Entre 90 y 100
+Güéjar Sierra	18094	2956	287,1666667	9760429	396	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Güevéjar	18095	2546	373,6666667	10744399	501	Entre 90 y 100	Entre 0 y 10	Entre 80 y 90	Entre 90 y 100
+Huélago	18096	432	32,33333334	785763	37	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10
+Huéneja	18097	1193	87,41666666	4654433	121	Entre 70 y 80	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Huéscar	18098	7942	767,4166667	34163700	900	Entre 80 y 90	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Huétor de Santillán	18099	1832	269,0833333	11593874	450	Entre 90 y 100	Entre 0 y 10	Entre 80 y 90	Entre 90 y 100
+Huétor Tájar	18100	10087	864,1666667	34139045	1408	Entre 80 y 90	Entre 60 y 70	Entre 80 y 90	Entre 90 y 100
+Huétor Vega	18101	11805	1269,083333	92436516	1475	Entre 30 y 40	Entre 90 y 100	Entre 80 y 90	Entre 90 y 100
+Íllora	18102	10638	809,1666667	36633376	1597	Entre 80 y 90	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Ítrabo	18103	1028	79,24999999	3170885	136	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10
+Iznalloz	18105	6925	747,5	21875449	775	Entre 90 y 100	Entre 0 y 10	Entre 60 y 70	Entre 70 y 80
+Jayena	18107	1243	130,75	3775985	188	Entre 0 y 10	Entre 0 y 10	Entre 60 y 70	Entre 0 y 10
+Jérez del Marquesado	18108	1038	114,8333333	3872941	189	Entre 60 y 70	Entre 0 y 10	Entre 90 y 100	Entre 80 y 90
+Jete	18109	923	73,25000002	2388035	104	Entre 20 y 30	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Jun	18111	3609	401,3333333	26421447	922	Entre 90 y 100	Entre 90 y 100	Entre 90 y 100	Entre 90 y 100
+Juviles	18112	135	12,41666666	480356	20	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100	Entre 50 y 60
+Láchar	18115	3249	408,9166667	11323996	561	Entre 90 y 100	Entre 60 y 70	Entre 70 y 80	Entre 90 y 100
+Lanjarón	18116	3791	441,6666666	15464720	437	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Lanteira	18117	545	73,99999997	2357589	55	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Lecrín	18119	2247	182,3333334	8762472	179	Entre 70 y 80	Entre 50 y 60	Entre 60 y 70	Entre 80 y 90
+Lentegí	18120	346	29,91666668	1396048	33	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 60 y 70
+Lobras	18121	163	8,24999999	127045	14	Entre 0 y 10	Entre 0 y 10	Entre 60 y 70	Entre 90 y 100
+Loja	18122	21135	2134,583333	91787364	1586	Entre 60 y 70	Entre 20 y 30	Entre 90 y 100	Entre 90 y 100
+Lugros	18123	333	23,75	780840	48	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10
+Lújar	18124	524	27,08333337	1486463	38	Entre 0 y 10	Entre 0 y 10	Entre 80 y 90	Entre 40 y 50
+Malahá (La)	18126	1858	278,5	6882163	331	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Maracena	18127	21594	2959,5	118613550	1760	Entre 70 y 80	Entre 90 y 100	Entre 90 y 100	Entre 90 y 100
+Marchal	18128	427	54,75000001	1053677	38	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 60 y 70
+Moclín	18132	4136	327,3333333	14589495	452	Entre 60 y 70	Entre 0 y 10	Entre 90 y 100	Entre 70 y 80
+Molvízar	18133	2982	243,5833333	7938727	284	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Monachil	18134	7359	938,4166667	52185453	1235	Entre 30 y 40	Entre 50 y 60	Entre 90 y 100	Entre 80 y 90
+Montefrío	18135	5853	331,6666666	19828983	668	Entre 60 y 70	Entre 0 y 10	Entre 0 y 10	Entre 80 y 90
+Montejícar	18136	2308	136	6348847	294	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Montillana	18137	1349	67,16666664	3912174	149	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10
+Moraleda de Zafayona	18138	3233	294,1666667	10291869	511	Entre 40 y 50	Entre 0 y 10	Entre 40 y 50	Entre 90 y 100
+Morelábor	18909	736	44,16666668	2204472	85	Entre 40 y 50	Entre 0 y 10	Entre 90 y 100	Entre 40 y 50
+Motril	18140	61194	7332,666667	318661543	5616	Entre 80 y 90	Entre 40 y 50	Entre 90 y 100	Entre 90 y 100
+Murtas	18141	605	37,91666667	1013809	45	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 80 y 90
+Nevada	18903	1174	104,6666666	2814603	124	Entre 70 y 80	Entre 0 y 10	Entre 80 y 90	Entre 70 y 80
+Nigüelas	18143	1238	127	4818031	86	Entre 70 y 80	Entre 50 y 60	Entre 90 y 100	Entre 90 y 100
+Nívar	18144	883	96,33333332	6959472	234	Entre 10 y 20	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Ogíjares	18145	13598	1491,5	110956986	2236	Entre 70 y 80	Entre 50 y 60	Entre 90 y 100	Entre 90 y 100
+Orce	18146	1292	77,08333333	3955679	119	Entre 80 y 90	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Órgiva	18147	5739	724,4166666	21709819	798	Entre 70 y 80	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Otívar	18148	1136	110,5	3032272	150	Entre 90 y 100	Entre 0 y 10	Entre 70 y 80	Entre 10 y 20
+Padul	18150	8322	756,75	41756844	728	Entre 70 y 80	Entre 0 y 10	Entre 80 y 90	Entre 90 y 100
+Pampaneira	18151	352	1215,916667	892075	61	Entre 70 y 80	Entre 40 y 50	Entre 90 y 100	Entre 90 y 100
+Pedro Martínez	18152	1218	43,24999995	2834448	113	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100	Entre 70 y 80
+Peligros	18153	11126	68,41666664	69958934	1209	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Peza (La)	18154	1283	1511,5	3622766	115	Entre 70 y 80	Entre 90 y 100	Entre 90 y 100	Entre 90 y 100
+Pinar (El)	18910	1021	127,1666667	3134116	104	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10
+Pinos Genil	18157	1406	106,5833334	8187758	322	Entre 70 y 80	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Pinos Puente	18158	12903	134,9166666	40253313	1690	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Píñar	18159	1270	1702,583333	3849741	136	Entre 90 y 100	Entre 0 y 10	Entre 70 y 80	Entre 90 y 100
+Polícar	18161	225	101,0833334	690222	20	Entre 90 y 100	Entre 0 y 10	Entre 70 y 80	Entre 0 y 10
+Polopos	18162	1686	23,08333335	5674453	255	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10
+Pórtugos	18163	372	95,41666665	1368331	57	Entre 70 y 80	Entre 0 y 10	Entre 90 y 100	Entre 80 y 90
+Puebla de Don Fadrique	18164	2370	43,83333335	7708444	170	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Pulianas	18165	5326	184,5833333	26195109	1034	Entre 80 y 90	Entre 0 y 10	Entre 90 y 100	Entre 80 y 90
+Purullena	18167	2453	834,4166667	7225381	361	Entre 70 y 80	Entre 90 y 100	Entre 90 y 100	Entre 90 y 100
+Quéntar	18168	1020	327,75	3632633	156	Entre 80 y 90	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Rubite	18170	501	133,1666667	885412	2	Entre 70 y 80	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10
+Salar	18171	2757	34,91666667	8438166	357	Entre 0 y 10	Entre 0 y 10	Entre 50 y 60	Entre 10 y 20
+Salobreña	18173	12509	221,6666667	54139710	2665	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Santa Cruz del Comercio	18174	571	1487,166667	1571944	73	Entre 60 y 70	Entre 10 y 20	Entre 80 y 90	Entre 90 y 100
+Santa Fe	18175	15323	39,49999998	72540926	1899	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Soportújar	18176	287	2083,333333	757537	25	Entre 80 y 90	Entre 90 y 100	Entre 90 y 100	Entre 90 y 100
+Sorvilán	18177	572	21,66666666	2042911	31	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100	Entre 60 y 70
+Taha (La)	18901	719	30,49999997	2531448	140	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100	Entre 50 y 60
+Torre-Cardela	18178	860	74,16666666	2530081	79	Entre 0 y 10	Entre 0 y 10	Entre 60 y 70	Entre 90 y 100
+Torvizcón	18179	734	48,58333333	2335615	79	Entre 60 y 70	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Trevélez	18180	810	68,33333335	2890387	174	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10
+Turón	18181	284	79,08333334	350895	0	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Ugíjar	18182	2638	12	7877665	347	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 60 y 70
+Valle (El)	18902	1052	271,4166667	3766966	153	Entre 80 y 90	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Valle del Zalabí	18907	2259	61,75000001	8337779	344	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Válor	18183	609	156	2636681	128	Entre 40 y 50	Entre 0 y 10	Entre 90 y 100	Entre 70 y 80
+Vegas del Genil	18911	10003	61,91666666	64945205	2395	Entre 90 y 100	Entre 0 y 10	Entre 70 y 80	Entre 80 y 90
+Vélez de Benaudalla	18184	2890	1297,916667	10763942	448	Entre 70 y 80	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Ventas de Huelma	18185	693	305,5833333	2342829	35	Entre 90 y 100	Entre 80 y 90	Entre 80 y 90	Entre 90 y 100
+Villa de Otura	18149	6868	68,74999998	55905613	1220	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Villamena	18908	1031	100,5833333	3779902	113	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Villanueva de las Torres	18187	695	69,25	1403001	92	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100	Entre 80 y 90
+Villanueva Mesía	18188	2085	139,3333333	6639739	270	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10
+Víznar	18189	982	88,16666665	5505516	209	Entre 80 y 90	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Zafarraya	18192	1980	189,5	7020013	325	Entre 40 y 50	Entre 0 y 10	Entre 90 y 100	Entre 70 y 80
+Zagra	18913	900	44,0833333	2995495	138	Entre 80 y 90	Entre 0 y 10	Entre 80 y 90	Entre 90 y 100
+Zubia (La)	18193	18595	2337,5	122503264	2723	Entre 50 y 60	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Zújar	18194	2930	237,0000001	9924627	316	Entre 90 y 100	Entre 90 y 100	Entre 90 y 100	Entre 90 y 100
+Alájar	21001	805	132,75	2010502	52	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 50 y 60
+Aljaraque	21002	19492	2250,083333	180200025	3305	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 80 y 90
+Almendro (El)	21003	847	120,25	3482944	85	Entre 60 y 70	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Almonaster la Real	21004	1809	230,8333333	6850540	115	Entre 70 y 80	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Almonte	21005	22964	2045,583333	92392058	1898	Entre 30 y 40	Entre 0 y 10	Entre 0 y 10	Entre 60 y 70
+Alosno	21006	4152	607,8333333	12975415	534	Entre 90 y 100	Entre 30 y 40	Entre 10 y 20	Entre 90 y 100
+Aracena	21007	7900	1077,25	41825868	1663	Entre 90 y 100	Entre 0 y 10	Entre 30 y 40	Entre 90 y 100
+Aroche	21008	3233	276,9166666	9648905	88	Entre 80 y 90	Entre 40 y 50	Entre 0 y 10	Entre 90 y 100
+Arroyomolinos de León	21009	1023	162,5833333	2938175	128	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Ayamonte	21010	20406	2386,333333	91228877	2565	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10
+Beas	21011	4336	399	20464390	734	Entre 70 y 80	Entre 40 y 50	Entre 60 y 70	Entre 90 y 100
+Berrocal	21012	300	35,41666667	1410208	39	Entre 80 y 90	Entre 0 y 10	Entre 20 y 30	Entre 90 y 100
+Bollullos Par del Condado	21013	14394	1080,25	63308909	1446	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 60 y 70
+Bonares	21014	6282	368,4166667	27776946	890	Entre 90 y 100	Entre 50 y 60	Entre 0 y 10	Entre 90 y 100
+Cabezas Rubias	21015	781	81,50000001	2052992	70	Entre 90 y 100	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100
+Cala	21016	1264	226,5833333	4913712	229	Entre 0 y 10	Entre 0 y 10	Entre 40 y 50	Entre 90 y 100
+Calañas	21017	4165	665,6666667	18516535	353	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10
+Campillo (El)	21018	2169	351,5	11237280	359	Entre 60 y 70	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Campofrío	21019	708	139,8333333	3742640	120	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Cañaveral de León	21020	426	63,91666666	1002602	71	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Cartaya	21021	19323	1788,5	88839936	1759	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 20 y 30
+Castaño del Robledo	21022	209	27,83333333	583540	0	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Cerro de Andévalo (El)	21023	2400	270	8904537	82	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 60 y 70
+Chucena	21030	2057	140,8333333	8513700	308	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Corteconcepción	21024	550	91,91666668	2008689	93	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Cortegana	21025	4898	616,75	21649061	726	Entre 60 y 70	Entre 0 y 10	Entre 0 y 10	Entre 80 y 90
+Cortelazor	21026	277	41,75000001	988251	52	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 80 y 90
+Cumbres de Enmedio	21027	52	8,58333331	47293	0	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Cumbres de San Bartolomé	21028	437	42,41666666	1314882	67	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10
+Cumbres Mayores	21029	1888	261,5833334	7719441	325	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10
+Encinasola	21031	1353	139,1666666	4537504	163	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 30 y 40
+Escacena del Campo	21032	1802	175,6666666	8275233	251	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Fuenteheridos	21033	478	121,4166667	2382040	142	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Galaroza	21034	1548	232,1666667	5242165	233	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Gibraleón	21035	12411	1584	54633777	1152	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Granada de Río-Tinto (La)	21036	217	56,24999997	531428	33	Entre 70 y 80	Entre 10 y 20	Entre 70 y 80	Entre 90 y 100
+Granado (El)	21037	566	64,33333337	2009209	61	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 60 y 70
+Higuera de la Sierra	21038	1369	236,9166667	4716380	205	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10
+Hinojales	21039	298	35,83333332	1166734	0	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Hinojos	21040	3904	301,9166667	17460213	434	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 80 y 90
+Huelva (capital)	21041	148101	20756,33333	1073531461	10099	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Isla Cristina	21042	21443	2450,75	80267531	1871	Entre 80 y 90	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100
+Jabugo	21043	2325	347,8333334	9942622	438	Entre 90 y 100	Entre 50 y 60	Entre 60 y 70	Entre 90 y 100
+Lepe	21044	27406	2897,833333	107774007	1989	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Linares de la Sierra	21045	244	58,25000002	994470	37	Entre 80 y 90	Entre 40 y 50	Entre 0 y 10	Entre 90 y 100
+Lucena del Puerto	21046	2600	137,5	17547525	152	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 80 y 90
+Manzanilla	21047	2142	157,4166667	7512978	283	Entre 90 y 100	Entre 40 y 50	Entre 0 y 10	Entre 60 y 70
+Marines (Los)	21048	292	62,66666667	1499997	47	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Minas de Riotinto	21049	4090	609,1666667	25378133	862	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Moguer	21050	21209	1328,833333	104332874	2121	Entre 70 y 80	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Nava (La)	21051	295	53,58333336	1006747	57	Entre 80 y 90	Entre 0 y 10	Entre 60 y 70	Entre 90 y 100
+Nerva	21052	5654	968,8333333	26506679	857	Entre 30 y 40	Entre 0 y 10	Entre 0 y 10	Entre 10 y 20
+Niebla	21053	3991	504,0833333	18006629	688	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Palma del Condado (La)	21054	10597	1165,166667	54395257	1129	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Palos de la Frontera	21055	10196	1206,416667	63239773	1239	Entre 90 y 100	Entre 10 y 20	Entre 0 y 10	Entre 90 y 100
+Paterna del Campo	21056	3601	242,25	14742113	376	Entre 70 y 80	Entre 20 y 30	Entre 0 y 10	Entre 90 y 100
+Paymogo	21057	1253	178,25	3368295	115	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Puebla de Guzmán	21058	3127	431,1666667	12686254	315	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10
+Puerto Moral	21059	283	49,49999999	834345	33	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Punta Umbría	21060	14976	2177,25	80494563	1667	Entre 60 y 70	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Rociana del Condado	21061	7673	591,5	22920423	449	Entre 70 y 80	Entre 50 y 60	Entre 70 y 80	Entre 90 y 100
+Rosal de la Frontera	21062	1830	163,5	5867537	190	Entre 90 y 100	Entre 60 y 70	Entre 0 y 10	Entre 90 y 100
+San Bartolomé de la Torre	21063	3610	369,8333333	16616213	516	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+San Juan del Puerto	21064	8600	1030,416667	44876403	681	Entre 90 y 100	Entre 0 y 10	Entre 20 y 30	Entre 90 y 100
+San Silvestre de Guzmán	21066	699	42,66666666	2463123	54	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Sanlúcar de Guadiana	21065	461	50,91666664	979227	62	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Santa Ana la Real	21067	535	72,58333335	1972843	0	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 50 y 60
+Santa Bárbara de Casa	21068	1098	85,49999995	3881829	0	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 40 y 50
+Santa Olalla del Cala	21069	2023	234,0833333	8989432	332	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10
+Trigueros	21070	7822	1059,416667	40866478	1045	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Valdelarco	21071	223	23,91666668	698586	23	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Valverde del Camino	21072	12766	1834	70358732	1498	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10
+Villablanca	21073	3012	254,75	8638031	278	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Villalba del Alcor	21074	3395	351	10737006	359	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Villanueva de las Cruces	21075	400	51,66666668	877937	31	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Villanueva de los Castillejos	21076	2759	298,6666667	12498304	373	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 10 y 20
+Villarrasa	21077	2219	181	9280245	275	Entre 10 y 20	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Zalamea la Real	21078	3329	516,5	17465968	572	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Zufre	21079	896	130,5833334	2985257	145	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Albanchez de Mágina	23001	1179	71,08333336	4300290	74	Entre 70 y 80	Entre 0 y 10	Entre 0 y 10	Entre 50 y 60
+Alcalá la Real	23002	22682	1546,333333	115882236	2329	Entre 80 y 90	Entre 60 y 70	Entre 70 y 80	Entre 80 y 90
+Alcaudete	23003	11008	875,7499999	51225740	1026	Entre 80 y 90	Entre 0 y 10	Entre 60 y 70	Entre 90 y 100
+Aldeaquemada	23004	540	41,75	2106398	70	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Andújar	23005	38885	5230,833333	184510666	3460	Entre 80 y 90	Entre 20 y 30	Entre 0 y 10	Entre 90 y 100
+Arjona	23006	5764	395,9166667	25165247	983	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Arjonilla	23007	3793	231,9166667	15866041	660	Entre 90 y 100	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100
+Arquillos	23008	1948	188,5	5702253	202	Entre 50 y 60	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Arroyo del Ojanco	23905	2505	139,9166667	8829635	358	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 80 y 90
+Baeza	23009	16302	1521,916667	94680861	2083	Entre 80 y 90	Entre 20 y 30	Entre 0 y 10	Entre 90 y 100
+Bailén	23010	18616	3118,916667	71271809	1315	Entre 80 y 90	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100
+Baños de la Encina	23011	2679	370,6666667	9945389	348	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Beas de Segura	23012	5642	532,5833334	21125453	753	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Bedmar y Garcíez	23902	2969	188,1666666	10935600	312	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Begíjar	23014	3135	263,8333333	11749299	399	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Bélmez de la Moraleda	23015	1726	163,0833333	5494035	162	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Benatae	23016	531	36,33333335	1877070	76	Entre 0 y 10	Entre 0 y 10	Entre 80 y 90	Entre 80 y 90
+Cabra del Santo Cristo	23017	1996	156,4166667	7277724	266	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Cambil	23018	2861	220,0833334	8845560	254	Entre 90 y 100	Entre 0 y 10	Entre 80 y 90	Entre 90 y 100
+Campillo de Arenas	23019	2014	129,5	7754079	336	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Canena	23020	2018	154,8333333	10357688	130	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Carboneros	23021	647	88,08333331	1828238	86	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Cárcheles	23901	1466	116	5753372	232	Entre 60 y 70	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Carolina (La)	23024	15899	3080,666667	78353582	1930	Entre 70 y 80	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100
+Castellar	23025	3504	220,5833333	13248174	587	Entre 90 y 100	Entre 0 y 10	Entre 80 y 90	Entre 90 y 100
+Castillo de Locubín	23026	4526	199,0833333	19656917	538	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 80 y 90
+Cazalilla	23027	902	64,99999996	2712845	85	Entre 30 y 40	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10
+Cazorla	23028	7929	741,25	39126382	1405	Entre 90 y 100	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100
+Chiclana de Segura	23029	1084	37,66666665	3503032	142	Entre 70 y 80	Entre 0 y 10	Entre 80 y 90	Entre 40 y 50
+Chilluévar	23030	1578	71,16666666	5557022	107	Entre 60 y 70	Entre 0 y 10	Entre 80 y 90	Entre 70 y 80
+Escañuela	23031	960	48,58333334	4268570	143	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Espeluy	23032	715	82,33333336	2378815	48	Entre 10 y 20	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Frailes	23033	1681	67,25	6666091	205	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10
+Fuensanta de Martos	23034	3226	215,7500001	13275923	501	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Fuerte del Rey	23035	1410	107,3333333	5940367	258	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Génave	23037	613	31,25	2171445	87	Entre 50 y 60	Entre 0 y 10	Entre 0 y 10	Entre 40 y 50
+Guardia de Jaén (La)	23038	4654	370	39462453	853	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Guarromán	23039	2925	455,4166666	8664027	433	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Higuera de Calatrava	23041	645	22,33333334	2318330	119	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 50 y 60
+Hinojares	23042	395	35,74999999	1046997	48	Entre 0 y 10	Entre 0 y 10	Entre 80 y 90	Entre 20 y 30
+Hornos	23043	677	30,58333331	2285261	74	Entre 40 y 50	Entre 0 y 10	Entre 70 y 80	Entre 90 y 100
+Huelma	23044	6141	621,5833333	24028255	923	Entre 90 y 100	Entre 0 y 10	Entre 80 y 90	Entre 90 y 100
+Huesa	23045	2622	88,58333336	7945476	327	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10
+Ibros	23046	3038	300	11664284	379	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Iruela (La)	23047	2090	151,75	6634892	198	Entre 40 y 50	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Iznatoraf	23048	1054	37,16666666	3971752	182	Entre 0 y 10	Entre 0 y 10	Entre 20 y 30	Entre 90 y 100
+Jabalquinto	23049	2300	151,3333333	8088533	262	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 50 y 60
+Jaén (capital)	23050	116176	13056,91667	960533355	11767	Entre 80 y 90	Entre 90 y 100	Entre 80 y 90	Entre 90 y 100
+Jamilena	23051	3507	302,4166667	14419276	474	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Jimena	23052	1378	90,08333332	4877700	178	Entre 60 y 70	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Jódar	23053	12155	872,25	35104610	649	Entre 90 y 100	Entre 10 y 20	Entre 0 y 10	Entre 90 y 100
+Lahiguera	23040	1833	88,08333334	7383751	181	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 50 y 60
+Larva	23054	487	15,41666667	1614480	0	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 70 y 80
+Linares	23055	60740	9064,833333	352142683	4355	Entre 70 y 80	Entre 80 y 90	Entre 90 y 100	Entre 90 y 100
+Lopera	23056	3882	263,1666667	16357129	494	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Lupión	23057	938	61,75000002	2998508	139	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Mancha Real	23058	11353	1045,583333	58519996	998	Entre 80 y 90	Entre 90 y 100	Entre 80 y 90	Entre 90 y 100
+Marmolejo	23059	7252	730,8333333	32057185	1278	Entre 90 y 100	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100
+Martos	23060	24585	2493,25	152854357	1669	Entre 80 y 90	Entre 60 y 70	Entre 0 y 10	Entre 90 y 100
+Mengíbar	23061	9973	1226,416667	43524645	797	Entre 90 y 100	Entre 10 y 20	Entre 0 y 10	Entre 90 y 100
+Montizón	23062	1845	55,16666666	6265935	223	Entre 60 y 70	Entre 0 y 10	Entre 70 y 80	Entre 60 y 70
+Navas de San Juan	23063	4895	381	17035814	678	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Noalejo	23064	2012	76,24999999	6697670	249	Entre 50 y 60	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Orcera	23065	1983	173,0833333	8967616	282	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Peal de Becerro	23066	5468	387,5	24441681	802	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Pegalajar	23067	3073	293,5	11936572	469	Entre 90 y 100	Entre 0 y 10	Entre 80 y 90	Entre 90 y 100
+Porcuna	23069	6727	330,75	31295052	936	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Pozo Alcón	23070	5165	571,0833333	18956610	550	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Puente de Génave	23071	2260	186,0833333	9511116	328	Entre 80 y 90	Entre 0 y 10	Entre 80 y 90	Entre 90 y 100
+Puerta de Segura (La)	23072	2591	197,5833333	11145377	455	Entre 80 y 90	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Quesada	23073	5705	438	21816834	759	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Rus	23074	3740	452,4166666	14329781	173	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Sabiote	23075	4143	439,8333333	16416993	613	Entre 90 y 100	Entre 70 y 80	Entre 50 y 60	Entre 90 y 100
+Santa Elena	23076	970	165,6666667	3581244	165	Entre 50 y 60	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Santiago de Calatrava	23077	795	26,16666668	3209635	118	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 20 y 30
+Santiago-Pontones	23904	3491	169,8333334	10128056	335	Entre 30 y 40	Entre 0 y 10	Entre 0 y 10	Entre 70 y 80
+Santisteban del Puerto	23079	4758	322,0833334	17274598	741	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Santo Tomé	23080	2430	120,6666666	7981516	136	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Segura de la Sierra	23081	1949	137,8333334	8392354	298	Entre 40 y 50	Entre 0 y 10	Entre 30 y 40	Entre 90 y 100
+Siles	23082	2387	177,4166667	10280692	356	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Sorihuela del Guadalimar	23084	1317	94,99999997	4179716	186	Entre 50 y 60	Entre 0 y 10	Entre 0 y 10	Entre 80 y 90
+Torreblascopedro	23085	2789	1484,583333	9148809	313	Entre 90 y 100	Entre 70 y 80	Entre 0 y 10	Entre 90 y 100
+Torre del Campo	23086	14729	184,4166666	73779492	1027	Entre 70 y 80	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Torredonjimeno	23087	14116	1547,416667	80450787	1046	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Torreperogil	23088	7649	1006,25	30916754	1096	Entre 90 y 100	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100
+Torres	23090	1592	83,83333336	6683943	209	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Torres de Albánchez	23091	915	66,41666664	2958750	105	Entre 60 y 70	Entre 0 y 10	Entre 70 y 80	Entre 50 y 60
+Úbeda	23092	35514	4142,166667	230701112	4181	Entre 70 y 80	Entre 80 y 90	Entre 80 y 90	Entre 90 y 100
+Valdepeñas de Jaén	23093	4045	139,1666666	15201144	679	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Vilches	23094	4768	540,3333334	21337259	499	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Villacarrillo	23095	11263	616,0833333	51530409	1807	Entre 90 y 100	Entre 80 y 90	Entre 80 y 90	Entre 90 y 100
+Villanueva de la Reina	23096	3301	273,6666667	14032798	377	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Villanueva del Arzobispo	23097	8768	517,3333333	35636897	1373	Entre 90 y 100	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100
+Villardompardo	23098	1081	52,41666668	4160275	151	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 60 y 70
+Villares (Los)	23099	6013	312,5833333	29975850	843	Entre 80 y 90	Entre 80 y 90	Entre 0 y 10	Entre 90 y 100
+Villarrodrigo	23101	464	22,83333333	1905069	59	Entre 50 y 60	Entre 0 y 10	Entre 0 y 10	Entre 40 y 50
+Villatorres	23903	4472	290	17410256	649	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Málaga		1652999	206139,9167	8946161285	213935	Entre 80 y 90	Entre 40 y 50	Entre 0 y 10	Entre 90 y 100
+Alameda	29001	5455	495,0833333	18149488	189	Entre 20 y 30	Entre 0 y 10	Entre 30 y 40	Entre 70 y 80
+Alcaucín	29002	2832	200,8333333	7779264	207	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100	Entre 0 y 10
+Alfarnate	29003	1240	95,74999998	3726718	120	Entre 10 y 20	Entre 0 y 10	Entre 90 y 100	Entre 20 y 30
+Alfarnatejo	29004	515	38,66666666	1006996	19	Entre 90 y 100	Entre 50 y 60	Entre 50 y 60	Entre 90 y 100
+Algarrobo	29005	6601	691,6666667	22894974	994	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Algatocín	29006	866	133,3333334	1864739	48	Entre 50 y 60	Entre 80 y 90	Entre 0 y 10	Entre 90 y 100
+Alhaurín de la Torre	29007	38067	4747,833333	247395974	5296	Entre 80 y 90	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100
+Alhaurín el Grande	29008	24249	3116,833333	77309689	1774	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Almáchar	29009	1915	199,0833333	4776995	136	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Almargen	29010	2045	198,1666666	9360074	344	Entre 60 y 70	Entre 0 y 10	Entre 0 y 10	Entre 80 y 90
+Almogía	29011	4168	585,5833334	9775218	373	Entre 50 y 60	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Álora	29012	13342	2222,666667	42593187	1356	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Alozaina	29013	2206	289,8333334	7052810	258	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Alpandeire	29014	271	31,66666666	495431	29	Entre 80 y 90	Entre 80 y 90	Entre 0 y 10	Entre 90 y 100
+Antequera	29015	41620	4767,583333	248697459	4624	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Árchez	29016	487	41,58333334	886210	33	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Archidona	29017	8705	867,25	40857310	1229	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Ardales	29018	2588	280,4166666	9800776	373	Entre 80 y 90	Entre 0 y 10	Entre 90 y 100	Entre 10 y 20
+Arenas	29019	1397	115,25	3581710	137	Entre 70 y 80	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Arriate	29020	4075	597	17260151	430	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Atajate	29021	142	25,58333332	388452	16	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Benadalid	29022	258	19,66666665	655075	12	Entre 50 y 60	Entre 50 y 60	Entre 0 y 10	Entre 90 y 100
+Benahavís	29023	6380	231,8333334	27930541	2624	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Benalauría	29024	492	54,58333335	1149880	33	Entre 50 y 60	Entre 80 y 90	Entre 80 y 90	Entre 90 y 100
+Benalmádena	29025	69002	7514,25	391702871	11684	Entre 90 y 100	Entre 0 y 10	Entre 80 y 90	Entre 20 y 30
+Benamargosa	29026	1613	112	4328862	187	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Benamocarra	29027	3084	305,5833333	9537084	1	Entre 60 y 70	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10
+Benaoján	29028	1531	271,5	4984151	185	Entre 10 y 20	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Benarrabá	29029	544	66,83333334	1297905	57	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 80 y 90
+Borge (El)	29030	984	121,8333333	2591222	38	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10
+Burgo (El)	29031	1947	255,6666667	6080943	200	Entre 90 y 100	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100
+Campillos	29032	8677	1009,166667	40163990	1362	Entre 70 y 80	Entre 0 y 10	Entre 90 y 100	Entre 50 y 60
+Canillas de Aceituno	29033	1851	190,6666666	4838804	127	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 80 y 90
+Canillas de Albaida	29034	979	78,33333332	2382252	113	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Cañete la Real	29035	1812	204,75	6495829	254	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Carratraca	29036	816	113,9166666	2393364	103	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Cartajima	29037	250	22,08333334	839312	24	Entre 80 y 90	Entre 50 y 60	Entre 0 y 10	Entre 90 y 100
+Cártama	29038	24242	3436,416667	105786158	2541	Entre 70 y 80	Entre 0 y 10	Entre 0 y 10	Entre 80 y 90
+Casabermeja	29039	3651	419,6666667	13821313	516	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100	Entre 40 y 50
+Casarabonela	29040	2690	305,1666667	9108594	327	Entre 50 y 60	Entre 40 y 50	Entre 0 y 10	Entre 90 y 100
+Casares	29041	5754	487,6666667	22665238	1475	Entre 70 y 80	Entre 90 y 100	Entre 90 y 100	Entre 90 y 100
+Coín	29042	22536	3193,666667	85796628	1973	Entre 70 y 80	Entre 20 y 30	Entre 50 y 60	Entre 90 y 100
+Colmenar	29043	3583	440,75	10996079	434	Entre 20 y 30	Entre 0 y 10	Entre 30 y 40	Entre 70 y 80
+Comares	29044	1583	88,08333335	2795844	43	Entre 90 y 100	Entre 0 y 10	Entre 80 y 90	Entre 90 y 100
+Cómpeta	29045	3885	345,5	10577577	499	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Cortes de la Frontera	29046	3461	586,1666667	12456918	378	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 60 y 70
+Cuevas Bajas	29047	1451	136,8333333	5109359	190	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Cuevas de San Marcos	29049	4029	312,1666667	5818235	419	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10
+Cuevas del Becerro	29048	1704	215,9166667	13900872	213	Entre 30 y 40	Entre 0 y 10	Entre 40 y 50	Entre 40 y 50
+Cútar	29050	661	52,5	1542763	40	Entre 60 y 70	Entre 70 y 80	Entre 80 y 90	Entre 90 y 100
+Estepona	29051	67986	7565,833333	326948481	10351	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Faraján	29052	246	15,74999999	746562	27	Entre 80 y 90	Entre 80 y 90	Entre 80 y 90	Entre 90 y 100
+Frigiliana	29053	3395	337,5833334	11520327	699	Entre 70 y 80	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100
+Fuengirola	29054	77397	8022,583333	340183651	8810	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Fuente de Piedra	29055	2733	209,25	10746935	357	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 50 y 60
+Gaucín	29056	1647	186,5833334	4987548	272	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Genalguacil	29057	499	37,9166667	1289674	32	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Guaro	29058	2284	255	6236818	222	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Humilladero	29059	3430	358	12208475	204	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Igualeja	29060	823	67,08333333	3063522	98	Entre 90 y 100	Entre 10 y 20	Entre 0 y 10	Entre 10 y 20
+Istán	29061	1398	165,5	6560409	298	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Iznate	29062	943	95,58333332	2246536	0	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 80 y 90
+Jimera de Líbar	29063	461	53,50000004	1275888	51	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Jubrique	29064	712	69,66666668	1678794	39	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Júzcar	29065	239	21,5	462625	30	Entre 90 y 100	Entre 0 y 10	Entre 50 y 60	Entre 90 y 100
+Macharaviaya	29066	500	57,00000001	1130977	46	Entre 60 y 70	Entre 90 y 100	Entre 70 y 80	Entre 90 y 100
+Málaga (capital)	29067	568479	82196,58333	3690606300	58447	Entre 80 y 90	Entre 80 y 90	Entre 0 y 10	Entre 90 y 100
+Manilva	29068	14600	1403,833333	59538790	3822	Entre 60 y 70	Entre 80 y 90	Entre 80 y 90	Entre 90 y 100
+Marbella	29069	142018	15534,66667	796659896	29771	Entre 40 y 50	Entre 30 y 40	Entre 20 y 30	Entre 90 y 100
+Mijas	29070	85600	8608,083333	345905318	13371	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Moclinejo	29071	1283	144,5833333	2238981	0	Entre 80 y 90	Entre 70 y 80	Entre 0 y 10	Entre 90 y 100
+Mollina	29072	5185	411,4166667	17546196	487	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Monda	29073	2383	337,4166666	8900614	369	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Montejaque	29074	1010	109,6666667	3841620	121	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 30 y 40
+Nerja	29075	22918	2890,166667	87030115	3221	Entre 70 y 80	Entre 80 y 90	Entre 90 y 100	Entre 90 y 100
+Ojén	29076	3293	369,6666667	16703164	967	Entre 90 y 100	Entre 10 y 20	Entre 90 y 100	Entre 90 y 100
+Parauta	29077	241	30,16666665	503111	42	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 70 y 80
+Periana	29079	3542	378,4166667	9911923	368	Entre 70 y 80	Entre 0 y 10	Entre 90 y 100	Entre 80 y 90
+Pizarra	29080	9298	1481,583333	35291448	1232	Entre 70 y 80	Entre 60 y 70	Entre 70 y 80	Entre 90 y 100
+Pujerra	29081	314	20,49999996	847940	29	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Rincón de la Victoria	29082	41827	4815,083333	354321575	7980	Entre 60 y 70	Entre 90 y 100	Entre 40 y 50	Entre 90 y 100
+Riogordo	29083	3083	304,5	7821307	315	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Ronda	29084	36665	5026,916667	216958605	3609	Entre 70 y 80	Entre 90 y 100	Entre 90 y 100	Entre 90 y 100
+Salares	29085	229	22,25	435679	31	Entre 60 y 70	Entre 0 y 10	Entre 80 y 90	Entre 80 y 90
+Sayalonga	29086	1568	160,0833333	3953814	152	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 80 y 90
+Sedella	29087	715	51,33333335	1101894	41	Entre 60 y 70	Entre 0 y 10	Entre 50 y 60	Entre 80 y 90
+Sierra de Yeguas	29088	3488	304,0833333	12508543	422	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Teba	29089	4044	413,5833334	14501320	323	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Tolox	29090	2295	269,0833333	7290096	255	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Torremolinos	29901	69389	7911	59874821	9760	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Torrox	29091	18514	1780,833333	2009294	2263	Entre 60 y 70	Entre 90 y 100	Entre 80 y 90	Entre 90 y 100
+Totalán	29092	736	119,8333333	8078444	90	Entre 60 y 70	Entre 60 y 70	Entre 70 y 80	Entre 90 y 100
+Valle de Abdalajís	29093	2712	292	398505208	326	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 80 y 90
+Vélez-Málaga	29094	76911	10564,25	16006874	8135	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Villanueva de Algaidas	29095	4471	262,1666667	14931269	626	Entre 80 y 90	Entre 70 y 80	Entre 90 y 100	Entre 90 y 100
+Villanueva de la Concepción	29902	3460	370,4166667	20344943	397	Entre 70 y 80	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Villanueva de Tapia	29098	1603	118,5833334	6446925	61	Entre 0 y 10	Entre 30 y 40	Entre 0 y 10	Entre 90 y 100
+Villanueva del Rosario	29096	3588	399,5833333	6232521	349	Entre 90 y 100	Entre 10 y 20	Entre 70 y 80	Entre 90 y 100
+Villanueva del Trabuco	29097	5444	464,6666667	10607508	390	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Viñuela	29099	2073	160,25	382951430	162	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Yunquera	29100	3091	559,5	11065289	428	Entre 60 y 70	Entre 0 y 10	Entre 70 y 80	Entre 70 y 80
+Aguadulce	41001	2166	175,8333333	8373783	284	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Alanís	41002	1843	172,4166666	5978632	265	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Albaida del Aljarafe	41003	3084	493,9166666	13320383	377	Entre 90 y 100	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100
+Alcalá de Guadaíra	41004	73876	11862,91667	415667783	6325	Entre 50 y 60	Entre 80 y 90	Entre 0 y 10	Entre 90 y 100
+Alcalá del Río	41005	11620	1437,25	53001500	980	Entre 80 y 90	Entre 80 y 90	Entre 0 y 10	Entre 90 y 100
+Alcolea del Río	41006	3404	205,9166667	10994760	384	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Algaba (La)	41007	16029	2608,916667	76321734	1353	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Algámitas	41008	1310	122,4166666	4578039	83	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10
+Almadén de la Plata	41009	1531	204,5833334	4424010	218	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Almensilla	41010	5814	755,1666667	37674651	1381	Entre 90 y 100	Entre 20 y 30	Entre 0 y 10	Entre 90 y 100
+Arahal	41011	19536	2259,75	74424351	1287	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Aznalcázar	41012	4257	433,4166666	19248658	333	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Aznalcóllar	41013	6200	968,4166667	25979737	949	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Badolatosa	41014	3184	202,75	8858669	285	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 80 y 90
+Benacazón	41015	7144	861,4166667	32085456	1186	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Bollullos de la Mitación	41016	9882	1290	65642767	1897	Entre 80 y 90	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100
+Bormujos	41017	20681	2465,833333	168744842	2744	Entre 80 y 90	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100
+Brenes	41018	12897	1311,083333	48799356	1423	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Burguillos	41019	6556	860,5833333	26569477	1037	Entre 90 y 100	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100
+Cabezas de San Juan (Las)	41020	16589	2722,416667	51181666	1292	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Camas	41021	26535	4608,916667	146375400	2479	Entre 80 y 90	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100
+Campana (La)	41022	5497	368,5	15011656	445	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Cantillana	41023	10842	1239,916667	36973867	1292	Entre 90 y 100	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100
+Cañada Rosal	41901	3277	265,5	13302841	181	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Carmona	41024	28793	4038,25	134202702	2402	Entre 60 y 70	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Carrión de los Céspedes	41025	2524	240,3333333	10231668	396	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Casariche	41026	5619	481,6666666	19278428	325	Entre 80 y 90	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100
+Castilblanco de los Arroyos	41027	5075	759,6666667	16368789	818	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Castilleja de Guzmán	41028	2858	277,9166667	26105567	386	Entre 0 y 10	Entre 80 y 90	Entre 0 y 10	Entre 90 y 100
+Castilleja de la Cuesta	41029	17474	2439	107522453	2079	Entre 90 y 100	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100
+Castilleja del Campo	41030	650	65,33333338	2720276	129	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 40 y 50
+Castillo de las Guardas (El)	41031	1545	229	5350080	147	Entre 50 y 60	Entre 0 y 10	Entre 0 y 10	Entre 50 y 60
+Cazalla de la Sierra	41032	5054	568,4166667	21565410	733	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Constantina	41033	6337	581,0833333	21403947	745	Entre 90 y 100	Entre 90 y 100	Entre 50 y 60	Entre 90 y 100
+Coria del Río	41034	30115	4721,833333	134745370	2284	Entre 90 y 100	Entre 80 y 90	Entre 0 y 10	Entre 90 y 100
+Coripe	41035	1359	90,74999998	5081973	180	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10
+Coronil (El)	41036	5001	516,6666667	19237874	199	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Corrales (Los)	41037	4047	304,4166667	14401941	283	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Cuervo de Sevilla (El)	41903	8737	1488,5	23250430	297	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100	Entre 90 y 100
+Dos Hermanas	41038	129719	19314,41667	831194128	9968	Entre 70 y 80	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100
+Écija	41039	40880	5787,5	187782378	2690	Entre 80 y 90	Entre 70 y 80	Entre 0 y 10	Entre 90 y 100
+Espartinas	41040	14485	1278,833333	152576482	2513	Entre 50 y 60	Entre 80 y 90	Entre 0 y 10	Entre 90 y 100
+Estepa	41041	12631	1319,916667	65392999	1994	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Fuentes de Andalucía	41042	7257	593,3333333	27585887	801	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Garrobo (El)	41043	769	115,8333334	2591817	161	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 80 y 90
+Gelves	41044	9591	1194,583333	84236627	1743	Entre 80 y 90	Entre 50 y 60	Entre 0 y 10	Entre 90 y 100
+Gerena	41045	7207	991,75	37633570	1272	Entre 90 y 100	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100
+Gilena	41046	3897	262,3333333	16997877	212	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Gines	41047	13299	1418,083333	117029061	1815	Entre 90 y 100	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100
+Guadalcanal	41048	2861	273,1666667	9791636	393	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Guillena	41049	12328	1821,75	60941522	1963	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Herrera	41050	6510	502,0833333	28295675	657	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Huévar del Aljarafe	41051	2742	281,75	14061700	502	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Isla Mayor	41902	5948	497,5	22696527	520	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Lantejuela (La)	41052	3938	493,3333333	11608189	280	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Lebrija	41053	27395	4028,916667	113967867	823	Entre 80 y 90	Entre 30 y 40	Entre 0 y 10	Entre 90 y 100
+Lora de Estepa	41054	870	73,24999998	3811685	140	Entre 70 y 80	Entre 0 y 10	Entre 0 y 10	Entre 60 y 70
+Lora del Río	41055	19403	1848,166667	71779749	1369	Entre 90 y 100	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100
+Luisiana (La)	41056	4694	492,0833334	19072063	451	Entre 70 y 80	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Madroño (El)	41057	314	22,41666665	1411944	33	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 30 y 40
+Mairena del Alcor	41058	22328	3371,5	117454985	2003	Entre 50 y 60	Entre 70 y 80	Entre 0 y 10	Entre 90 y 100
+Mairena del Aljarafe	41059	43305	5255,583333	386982330	7058	Entre 80 y 90	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100
+Marchena	41060	19959	2639,666667	88884213	963	Entre 90 y 100	Entre 10 y 20	Entre 60 y 70	Entre 90 y 100
+Marinaleda	41061	2771	130	8130210	176	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Martín de la Jara	41062	2816	196,75	8926014	166	Entre 90 y 100	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100
+Molares (Los)	41063	3522	486,1666666	12036484	334	Entre 90 y 100	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100
+Montellano	41064	7154	705,5	23817839	432	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Morón de la Frontera	41065	28334	4009,583333	134424288	1467	Entre 80 y 90	Entre 50 y 60	Entre 90 y 100	Entre 90 y 100
+Navas de la Concepción (Las)	41066	1704	134,4166666	5508016	252	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10
+Olivares	41067	9568	1444,5	40475534	1269	Entre 90 y 100	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100
+Osuna	41068	17820	1936,916667	85431058	1768	Entre 90 y 100	Entre 90 y 100	Entre 70 y 80	Entre 90 y 100
+Palacios y Villafranca (Los)	41069	37936	5399,583333	135021382	1881	Entre 70 y 80	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100
+Palomares del Río	41070	7839	848,25	67840978	1626	Entre 80 y 90	Entre 80 y 90	Entre 0 y 10	Entre 90 y 100
+Paradas	41071	7094	632,5833333	26202107	628	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Pedrera	41072	5352	475,5	19420165	198	Entre 80 y 90	Entre 90 y 100	Entre 90 y 100	Entre 90 y 100
+Pedroso (El)	41073	2194	356,75	7842974	379	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Peñaflor	41074	3738	224,5833333	13140696	527	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Pilas	41075	14058	1427,416667	50533061	497	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Pruna	41076	2788	156,3333333	8353449	195	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Puebla de Cazalla (La)	41077	11448	1382,583333	41738614	340	Entre 90 y 100	Entre 0 y 10	Entre 40 y 50	Entre 90 y 100
+Puebla de los Infantes (La)	41078	3134	184,9166666	9288008	370	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Puebla del Río (La)	41079	12207	2009,166667	51327993	1282	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Real de la Jara (El)	41080	1617	228,8333333	5396546	238	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Rinconada (La)	41081	37755	5793,083333	187861599	3863	Entre 80 y 90	Entre 60 y 70	Entre 0 y 10	Entre 90 y 100
+Roda de Andalucía (La)	41082	4351	370,6666666	18906040	479	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Ronquillo (El)	41083	1429	179,3333334	5870497	160	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Rubio (El)	41084	3580	279,1666666	13414314	285	Entre 90 y 100	Entre 60 y 70	Entre 0 y 10	Entre 90 y 100
+Salteras	41085	5449	663,0000001	37534306	1473	Entre 90 y 100	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100
+San Juan de Aznalfarache	41086	21801	3610,333333	114154958	2016	Entre 70 y 80	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100
+San Nicolás del Puerto	41088	621	74,16666668	1909312	108	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10
+Sanlúcar la Mayor	41087	13498	1985,416667	67870204	1761	Entre 90 y 100	Entre 80 y 90	Entre 0 y 10	Entre 90 y 100
+Santiponce	41089	8382	1378,833333	42762213	1201	Entre 90 y 100	Entre 10 y 20	Entre 0 y 10	Entre 90 y 100
+Saucejo (El)	41090	4462	368,9166667	15795947	148	Entre 20 y 30	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Sevilla (capital)	41091	700169	89624	5866283869	74764	Entre 60 y 70	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100
+Tocina	41092	9640	872,8333333	34923529	1592	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Tomares	41093	24346	2193	260172666	3293	Entre 70 y 80	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100
+Umbrete	41094	8512	1105,333333	45238162	1294	Entre 90 y 100	Entre 20 y 30	Entre 0 y 10	Entre 90 y 100
+Utrera	41095	52013	8611,833333	248500031	3355	Entre 70 y 80	Entre 90 y 100	Entre 0 y 10	Entre 90 y 100
+Valencina de la Concepción	41096	7986	974,25	71335669	1288	Entre 80 y 90	Entre 40 y 50	Entre 0 y 10	Entre 90 y 100
+Villamanrique de la Condesa	41097	4359	352,5	13257566	196	Entre 90 y 100	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
+Villanueva de San Juan	41100	1300	97,24999995	32323974	84	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10	Entre 0 y 10
+Villanueva del Ariscal	41098	6244	974,6666667	15091979	688	Entre 40 y 50	Entre 60 y 70	Entre 0 y 10	Entre 90 y 100
+Villanueva del Río y Minas	41099	5096	697,0000001	4739233	708	Entre 80 y 90	Entre 10 y 20	Entre 0 y 10	Entre 90 y 100
+Villaverde del Río	41101	7697	800,0833334	23703248	1025	Entre 90 y 100	Entre 50 y 60	Entre 0 y 10	Entre 90 y 100
+Viso del Alcor (El)	41102	19099	3156,083333	79348985	659	Entre 80 y 90	Entre 0 y 10	Entre 0 y 10	Entre 90 y 100
