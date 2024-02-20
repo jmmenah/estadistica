@@ -1,0 +1,11 @@
+Intervalos<-cut(DatosAndalucia$TASA.DE.LINEAS.ADSL,breaks=seq(-0.5,41.5,by=1.5))
+Intervalos
+Tabla.frec.abs<-table(Intervalos)
+Tabla.frec.abs
+sum(Tabla.frec.abs)
+Tabla.frec.rel<-Tabla.frec.abs/sum(Tabla.frec.abs)
+Tabla.frec.rel
+Tabla.frec.abs.acum<-cumsum(Tabla.frec.abs)
+Tabla.frec.abs.acum
+Tabla.frec.rel.acum<-cumsum(Tabla.frec.rel)
+Tabla.frec.rel.acum

@@ -1,0 +1,15 @@
+d=    #escribe los 4 ultimos dígitos de tu DNI
+plot(NULL, xlim=c(d-9, d+9),ylim=c(0,1), ylab='densidad',xlab='x')
+curve(dnorm(x, mean=d,sd=3,add=T, col='red')
+
+plot(NULL,xlim=c(0,60),ylim=c(0,300),ylab='densidad',xlab='x')
+curve(dnorm(x,mean=0,sd=1),add=T,col='red')
+
+
+
+
+#Representación gráfica N(100, 10)
+x<-seq(70,130,length.out=20)
+y<-dnorm(x,100,10)
+plot(x,y,type="l",main="Densidad de una N(100,10)",
+xlab="Valores de la variable",ylab="Densidad")
